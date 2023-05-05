@@ -4,4 +4,7 @@ public class LoginPage {
 
     //enter email
     //enter password
+
+    //click logg in
+    //press enter
 }
