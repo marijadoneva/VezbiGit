@@ -7,4 +7,6 @@ public class LoginPage {
 
     //click logg in
     //press enter
+
+    //now you are Logged in
 }
