@@ -6,4 +6,5 @@ public class ShippingInfo {
 
     //Zip Code
     //State
+    //Country
 }
