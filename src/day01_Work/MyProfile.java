@@ -6,4 +6,7 @@ public class MyProfile {
 
     //First Name:
     //Last name:
+
+    //email:
+
 }
